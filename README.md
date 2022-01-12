@@ -1,4 +1,3 @@
-### Hi there 👋
 Fullstack developer and Architect currently working with the BC Public Sector
 <!--
 **tschia/tschia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
